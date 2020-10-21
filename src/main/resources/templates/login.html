@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>stu_login</title>
+    <link rel="stylesheet" th:href="@{/css/login.css}">
+    <link href="https://fonts.googleapis.com/css2?family=Permanent+Marker&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+
+
+<div class="signup-form">
+    <form action="/gologin">
+        <h1>Login in</h1>
+        <input type="text" name="studentId" placeholder="学号" class="txtb" th:value="${session.studentId}">
+        <input type="password" name="password" placeholder="密码" class="txtb" th:value="${session.password}">
+        <input type="text" name="verify" placeholder="验证码" class="txtb" value="">
+        <img src="/getimg" alt="验证码" >
+        <input type="submit" value="login in" class="signup-btn">
+        <a href="/register">Register an account ?</a>
+    </form>
+</div>
+
+</body>
+
+</html>

@@ -1,0 +1,30 @@
+Manifest-Version: 1.0
+Class-Path: thymeleaf-3.0.11.RELEASE.jar thymeleaf-extras-java8time-3.
+ 0.4.RELEASE.jar log4j-to-slf4j-2.13.3.jar tomcat-embed-core-9.0.38.ja
+ r lombok-1.18.12.jar mybatis-spring-boot-starter-2.1.3.jar log4j-api-
+ 2.13.3.jar spring-jcl-5.2.9.RELEASE.jar commons-io-2.6.jar spring-boo
+ t-starter-json-2.3.4.RELEASE.jar HikariCP-3.4.5.jar jackson-datatype-
+ jdk8-2.11.2.jar xmlbeans-3.1.0.jar poi-ooxml-schemas-4.1.2.jar spring
+ -boot-starter-web-2.3.4.RELEASE.jar mysql-connector-java-8.0.21.jar c
+ ommons-fileupload-1.2.2.jar spring-boot-starter-tomcat-2.3.4.RELEASE.
+ jar unbescape-1.1.6.RELEASE.jar poi-ooxml-4.1.2.jar commons-compress-
+ 1.19.jar commons-collections4-4.4.jar jakarta.el-3.0.3.jar jakarta.an
+ notation-api-1.3.5.jar mybatis-3.5.5.jar logback-core-1.2.3.jar jacks
+ on-databind-2.11.2.jar jackson-annotations-2.11.2.jar spring-boot-sta
+ rter-jdbc-2.3.4.RELEASE.jar attoparser-2.0.5.RELEASE.jar spring-boot-
+ 2.3.4.RELEASE.jar spring-boot-starter-thymeleaf-2.3.4.RELEASE.jar myb
+ atis-spring-2.0.5.jar SparseBitSet-1.2.jar slf4j-api-1.7.30.jar commo
+ ns-math3-3.6.1.jar thymeleaf-spring5-3.0.11.RELEASE.jar spring-tx-5.2
+ .9.RELEASE.jar spring-expression-5.2.9.RELEASE.jar logback-classic-1.
+ 2.3.jar spring-beans-5.2.9.RELEASE.jar spring-boot-autoconfigure-2.3.
+ 4.RELEASE.jar jackson-core-2.11.2.jar spring-aop-5.2.9.RELEASE.jar to
+ mcat-embed-websocket-9.0.38.jar spring-web-5.2.9.RELEASE.jar spring-c
+ ore-5.2.9.RELEASE.jar spring-webmvc-5.2.9.RELEASE.jar spring-boot-sta
+ rter-logging-2.3.4.RELEASE.jar spring-jdbc-5.2.9.RELEASE.jar mybatis-
+ spring-boot-autoconfigure-2.1.3.jar poi-4.1.2.jar spring-boot-starter
+ -2.3.4.RELEASE.jar spring-boot-devtools-2.3.4.RELEASE.jar snakeyaml-1
+ .26.jar spring-context-5.2.9.RELEASE.jar commons-codec-1.14.jar jul-t
+ o-slf4j-1.7.30.jar curvesapi-1.06.jar jackson-datatype-jsr310-2.11.2.
+ jar jackson-module-parameter-names-2.11.2.jar
+Main-Class: com.project.project1.Project1Application
+
